@@ -1,2 +1,3 @@
-# angular-2-tutorial
-Tutorial Angular 2
+# Tutorial Angular 2
+
+https://angular.io/docs/ts/latest/tutorial
